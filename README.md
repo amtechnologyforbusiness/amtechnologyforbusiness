@@ -134,37 +134,37 @@ We offer a wide range of software products:
 ### Ezycommerce
 
 A multi-vendor platform for e-commerce.  
-[**Demo**](https://www.amtechnology.com/ezycommerce)
+[**Demo**](https://www.amtechnology.info/ezycommerce)
 
 ### Property Zone
 
 A robust real estate management system.  
-[**Demo**](https://www.amtechnology.com/propertyzone)
+[**Demo**](https://www.amtechnology.info/propertyzone)
 
 ### Service Mate
 
 A platform for managing freelance services, with global success.  
-[**Demo**](https://www.amtechnology.com/servicemate)
+[**Demo**](https://www.amtechnology.info/servicemate)
 
 ### Penny Auction
 
 Start your own penny auction website with a mobile app.  
-[**Demo**](https://www.amtechnology.com/pennyauction)
+[**Demo**](https://www.amtechnology.info/pennyauction)
 
 ### Grocery Mart
 
 A complete single-vendor e-commerce solution for grocery businesses.  
-[**Demo**](https://www.amtechnology.com/grocerymart)
+[**Demo**](https://www.amtechnology.info/grocerymart)
 
 ### Cake Cart
 
 Online platform tailored for bakeries.  
-[**Demo**](https://www.amtechnology.com/cakecart)
+[**Demo**](https://www.amtechnology.info/cakecart)
 
 ### Ezy Ads
 
 A classified ad portal for selling and buying products.  
-[**Demo**](https://www.amtechnology.com/ezyads)
+[**Demo**](https://www.amtechnology.info/ezyads)
 
 *Feel free to explore each product's demo to understand how they can benefit your business.*
 
