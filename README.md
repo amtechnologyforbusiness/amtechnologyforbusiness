@@ -1,8 +1,9 @@
 # AM Technology
 
-![AM Technology Logo](https://your-logo-url.com/logo.png)
-
 Welcome to **AM Technology**, where we redefine the digital landscape with feature-rich software solutions designed to meet a variety of business needs. Our journey is rooted in the belief that technology can transform businesses, and our software offerings cover a wide spectrum of functionalities to cater to diverse domains.
+
+<!-- Replace with your actual logo URL -->
+
 
 ## Table of Contents
 
@@ -13,9 +14,10 @@ Welcome to **AM Technology**, where we redefine the digital landscape with featu
 - [Our Skills](#our-skills)
 - [Solutions We Cover](#solutions-we-cover)
 - [Whom We Serve](#whom-we-serve)
+- [Products](#products)
 - [Technological Expertise](#technological-expertise)
 - [Contact Us](#contact-us)
-- [License](#license)
+
 
 ## About Us
 
@@ -125,6 +127,47 @@ Our software solutions are ideal for a diverse range of users, making them the p
 - **Individual Dreamers:**  
   Transform your unique marketplace idea into reality and leave your mark in the digital landscape with our software solutions.
 
+## Products
+
+We offer a wide range of software products:
+
+### Ezycommerce
+
+A multi-vendor platform for e-commerce.  
+[**Demo**](https://www.amtechnology.com/ezycommerce)
+
+### Property Zone
+
+A robust real estate management system.  
+[**Demo**](https://www.amtechnology.com/propertyzone)
+
+### Service Mate
+
+A platform for managing freelance services, with global success.  
+[**Demo**](https://www.amtechnology.com/servicemate)
+
+### Penny Auction
+
+Start your own penny auction website with a mobile app.  
+[**Demo**](https://www.amtechnology.com/pennyauction)
+
+### Grocery Mart
+
+A complete single-vendor e-commerce solution for grocery businesses.  
+[**Demo**](https://www.amtechnology.com/grocerymart)
+
+### Cake Cart
+
+Online platform tailored for bakeries.  
+[**Demo**](https://www.amtechnology.com/cakecart)
+
+### Ezy Ads
+
+A classified ad portal for selling and buying products.  
+[**Demo**](https://www.amtechnology.com/ezyads)
+
+*Feel free to explore each product's demo to understand how they can benefit your business.*
+
 ## Technological Expertise
 
 Our team's expertise lies in harnessing the latest technologies to create solutions that are not just functional but innovative. From front-end design to back-end infrastructure, we cover it all. At **AM Technology**, we don't just create software; we craft experiences that empower businesses to thrive in the digital landscape. Join us on this journey as we continue to shape a digitally empowered future for businesses worldwide.
@@ -133,15 +176,12 @@ Our team's expertise lies in harnessing the latest technologies to create soluti
 
 We'd love to hear from you! Whether you have a question, feedback, or need support, feel free to reach out.
 
-- **Email:** [support@amtechnology.com](mailto:support@amtechnology.com)
-- **Website:** [www.amtechnology.com](https://www.amtechnology.com)
+- **Email:** [info@amtechnology.info](mailto:info@amtechnology.info)
+- **Website:** [www.amtechnology.info](https://www.amtechnology.info)
 - **LinkedIn:** [AM Technology LinkedIn](https://www.linkedin.com/company/amtechnology)
 - **Twitter:** [@AMTechnology](https://twitter.com/AMTechnology)
+- **Facebook:** [@amtechnologyforbusiness](https://www.facebook.com/amtechnologyforbusiness/)
+  
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-© 2024 **AM Technology**. All rights reserved.
